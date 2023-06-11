@@ -1,4 +1,4 @@
-# app_scanner_qrcode
+# app-query-nfc-e
 
 A new Flutter project.
 
