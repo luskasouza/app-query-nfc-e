@@ -1,6 +1,8 @@
 # app-query-nfc-e
 
-A new Flutter project.
++ A new Flutter project.
++ Academic project
+
 
 ## Getting Started
 
